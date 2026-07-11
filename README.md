@@ -1,6 +1,6 @@
 # Ejercicios de Programación
 
-## 📘 Ejercicio 1 - Módulo 2 (60 ptos.)
+## 📘 Ejercicio 1 - Módulo 2
 
 ### Contexto
 Trabajas en la secretaría de una institución educativa y recibes periódicamente las notas finales de los cursos en formato de lista.  
@@ -17,7 +17,7 @@ Finalmente, el script debe imprimir en pantalla las notas aprobadas junto con la
 
 ---
 
-## 🚲 Ejercicio 2 - Módulo 3 (40 ptos.)
+## 🚲 Ejercicio 2 - Módulo 3 
 
 ### Contexto
 Estás armando un script para registrar el inventario de una tienda de bicicletas.  
